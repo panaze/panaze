@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**panaze/panaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pablo Navarro Zepeda im a enthusiast programmer and an ongoing *Computer Science and Engineering* student in Tecnológico de Monterrey, in Monterrey, Mexico.
 
-Here are some ideas to get you started:
+I’m currently enrolled in the following certifications:
+    - Full Stack Development Course by _Digital House_
+    - Web Development Course by _BEDU_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Technical Skills
+*Programming Languages*: C++ (Proficient), Python (Proficient), Javascript, Solidity, SQL, HTML, CSS, Java, Scheme, MATLAB.
+*Technologies*: Ethereum Blockchain, MySQL, MongoDB, Brandwatch, Node.js.
+
+##Hobbies
+  - Hiking
+  - Reading
+  - Watching series and movies
+  - Going out with my friends
+  - 
+##Contact me:
+*Personal Mail*: panaze@outlook.com
+*LinkedIn*: [panaze](https://www.linkedin.com/in/panaze/)
+
+
