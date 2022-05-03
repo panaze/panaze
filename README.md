@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Pablo Navarro Zepeda im a enthusiast programmer and an ongoing **Computer Science and Engineering **student in Tecnológico de Monterrey, in Monterrey, Mexico.
+My name is Pablo Navarro Zepeda im a enthusiast programmer and an ongoing **Computer Science and Engineering** student in Tecnológico de Monterrey, in Monterrey, Mexico.
 
 I’m currently enrolled in the following certifications:
 - Full Stack Development Course by _Digital House_
