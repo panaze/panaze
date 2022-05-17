@@ -15,7 +15,6 @@ I’m currently enrolled in the following certifications:
 - Reading
 - Watching series and movies
 - Going out with my friends
-- Programming
   
 ## Contact me 📞
 - **Personal Mail** : panaze@outlook.com
