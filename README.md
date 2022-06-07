@@ -27,7 +27,6 @@ My name is Pablo Navarro Zepeda im a enthusiast programmer and an ongoing **Comp
 
 I’m currently enrolled in the following certifications:
 - Full Stack Development Course by _Digital House_
-- Web Development Course by _BEDU_
 
 ### :hammer_and_wrench: Languages and Tools :
 
