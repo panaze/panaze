@@ -12,6 +12,9 @@
   <a href="">
     <img src="https://img.shields.io/badge/Instagram-important?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://pablonz.com">
+    <img src="https://img.shields.io/badge/Personal%20Website-green?style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <div id="profile-views" align= "center">
