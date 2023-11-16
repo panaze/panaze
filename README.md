@@ -6,9 +6,6 @@
   <a href="https://linkedin.com/in/panaze/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCWEdyWioII4BlrcjyH848Gw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="">
     <img src="https://img.shields.io/badge/Instagram-important?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
